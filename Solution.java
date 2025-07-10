@@ -7,7 +7,7 @@ public class Solution {
     public static void main(String[] args) {
         System.out.println("Enter a number");
         int N = scanner.nextInt();
-        System.out.println("Enter:" + N);
+        System.out.println("Enter: " + N);
         if (N == 0) {
             System.err.println("Enter any number other than 0\n");
         } else {
